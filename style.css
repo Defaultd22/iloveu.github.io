@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(19, 19, 19);
+    color: rgb(185, 52, 52);
+    align-items: center;
+}
+.container {
+    max-width: 60%;
+    margin: 0 auto;
+    display: block;
+margin-left: auto;
+margin-right: auto
+}
+.main_text_block {
+text-align: center;
+
+}
+.img { 
+
+}
